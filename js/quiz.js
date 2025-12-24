@@ -194,7 +194,7 @@ function retryQuiz() {
 
 // Go home
 function goHome() {
-    window.location.href = 'Landing_page.html';
+    window.location.href = 'index.html';
 }
 
 // Event listeners
@@ -207,4 +207,5 @@ retryBtn.addEventListener('click', retryQuiz);
 homeBtn.addEventListener('click', goHome);
 
 // Start quiz
+
 initQuiz();
