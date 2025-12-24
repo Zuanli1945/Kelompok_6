@@ -194,7 +194,7 @@ function retryQuiz() {
 
 // Go home
 function goHome() {
-    window.location.href = './index.html';
+    window.location.href = './Kelompok_6/index.html';
 }
 
 // Event listeners
